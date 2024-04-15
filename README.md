@@ -51,7 +51,7 @@ Download links for all Cactus McCoy, Jacksmith, Papa Louie, Papa's, Rock Garden,
 | Papa's Pizzeria | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Pizzeria.zip) | ![Papa's Pizzeria](/Images/papaspizzeria_100x100.jpg) |
 | Papa's Scooperia | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Scooperia.zip) | ![Papa's Scooperia](/Images/icon_100x100_papasscooperia.jpg) |
 | Papa's Sushiria | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Sushiria.zip) | ![Papa's Sushiria](/Images/icon_100x100_papassushiria.jpg) |
-| Papa's Taco Mia | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Tacomia.zip) | ![Papa's Taco Mia](/Images/papastacomia_100x100.jpg) |
+| Papa's Taco Mia | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Taco.Mia.zip) | ![Papa's Taco Mia](/Images/papastacomia_100x100.jpg) |
 | Papa's Wingeria | [Download](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/Papas.Wingeria.zip) | ![Papa's Wingeria](/Images/papaswingeria_100x100.jpg) |
 
 **Rock Garden:**
