@@ -1,6 +1,8 @@
 # Flipline Studios Flash Archive
 This is a complete archive of Flipline Studio's Flash Games that you can download and play.
 
+![Food Games Banner](/Images/food-games-banner.png)
+
 **Instructions:**
 
 1. To get started, download [Flash Player (v32)](https://github.com/ScytedTV-Studios/Flipline-Studios-Flash-Archive/releases/download/Downloads/flashplayer_32_sa.exe).
